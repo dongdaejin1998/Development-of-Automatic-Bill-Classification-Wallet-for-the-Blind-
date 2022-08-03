@@ -1,1 +1,1 @@
-# Development-of-Automatic-Bill-Classification-Wallet-for-the-Blind-
+# Development-of-Text-to-Braille-Translate-Device-Using-OCR-
